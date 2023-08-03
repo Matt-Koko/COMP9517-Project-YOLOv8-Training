@@ -1,0 +1,13 @@
+names:
+- penguin
+- turtle
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: comp9517-20rk9
+  url: https://universe.roboflow.com/comp9517-jw08f/comp9517-20rk9/dataset/2
+  version: 2
+  workspace: comp9517-jw08f
+test: ../test/images
+train: ../comp9517-2/train/images
+val: ../comp9517-2/valid/images
